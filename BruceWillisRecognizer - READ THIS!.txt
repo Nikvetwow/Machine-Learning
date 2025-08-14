@@ -4,4 +4,6 @@ In the data folder you will find pictures of Bruce Willis and some of different 
 Right now, the data is not enough for the model to predict correctly. Still need more data for that.
 
 Run bruce_model.py - it will generate the model (maybe with the name - bruce_willis_model.h5)
+
 Unfortunately I am not able to upload the model, because the size is too large.
+https://drive.google.com/file/d/1WHEVz5aGuhrPY7XOsIfVv_wT1Vx7tTcs/view?usp=drive_link - here is a link to my model, I uploaded it to Google Drive.
