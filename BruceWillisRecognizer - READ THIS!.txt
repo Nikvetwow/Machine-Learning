@@ -1,0 +1,7 @@
+model_test.py - use to test it
+bruce_model.py is the code that is used to create the model
+In the data folder you will find pictures of Bruce Willis and some of different men.
+Right now, the data is not enough for the model to predict correctly. Still need more data for that.
+
+Run bruce_model.py - it will generate the model (maybe with the name - bruce_willis_model.h5)
+Unfortunately I am not able to upload the model, because the size is too large.
